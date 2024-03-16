@@ -1016,6 +1016,7 @@ section {
 
     .offers-box {
         height: 23vh;
+        overflow: hidden;
     }
 
     .offers-layer p {

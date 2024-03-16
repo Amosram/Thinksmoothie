@@ -173,7 +173,8 @@ section {
 .home-right img {
     width: 35vw;
     animation: bounce 8s ease infinite;
-    padding: 2.5rem;
+    padding-right: 4rem;
+    margin-right: 50%;
 }
 
 @keyframes bounce {

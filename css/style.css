@@ -951,6 +951,11 @@ section {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
     }
+
+    .sidebar img {
+        width: 15%;
+        padding-top: .4rem;
+    }
 }
 
 @media (max-width: 500px) {
@@ -960,7 +965,7 @@ section {
     } 
 
     .sidebar .logo img {
-        width: 40%;
+        width: 20%;
         height: auto;
     } 
 
